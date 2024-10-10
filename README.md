@@ -1,16 +1,48 @@
-## Hi there 👋
 
-<!--
-**dajunomo/dajunomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola Soy Juan 👋
 
-Here are some ideas to get you started:
+Web Developer | Market Product Specialist | Wordpress Developer | Business Intelligence | Data Analyst |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Sobre mi
+
+Soy un desarrollador web especializado en WordPress con una amplia experiencia en la creación y personalización de sitios web utilizando herramientas avanzadas como Elementor y Divi. Mi enfoque profesional se centra en la optimización y personalización de sitios web,
+utilizando una variedad de plugins de WordPress para mejorar la funcionalidad y la experiencia del usuario.
+
+
+## ✏️ Estudios
+
+- Fundación Universitaria Compensar. Estudiante Ingeniería de sistemas. Bogotá 2021– Actualidad.
+
+- Politécnico Campoalto. Técnico laboral por competencias en ensamble mantenimiento y reparación de hardware. Bogotá 2014 – 2015.
+
+
+## 🛠 Skills
+
+🧑‍💻 Desarrollo Web 
+
+- HTML
+- CSS
+- Javascript
+- Wordpress
+- Elementor
+- Divi
+- Visual Studio Code
+- Github
+
+📢 Marketing 
+
+- Google Analytics
+- Google AdManager
+- Google Adsense
+
+📊 Análisis de Datos
+
+- Power BI
+- Excel
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-d-zuniga/)
+
