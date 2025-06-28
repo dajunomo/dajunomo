@@ -6,9 +6,13 @@ Web Developer | Market Product Specialist | Wordpress Developer | Business Intel
 
 ## 🚀 Sobre mi
 
-Soy un desarrollador web especializado en WordPress con una amplia experiencia en la creación y personalización de sitios web utilizando herramientas avanzadas como Elementor y Divi. Mi enfoque profesional se centra en la optimización y personalización de sitios web,
-utilizando una variedad de plugins de WordPress para mejorar la funcionalidad y la experiencia del usuario.
+Soy un profesional enfocado en el análisis de datos, con experiencia complementaria en marketing digital y desarrollo web. Mi trabajo se centra en extraer valor estratégico a partir de los datos, convirtiéndolos en información clara y accionable que potencia la toma de decisiones y la eficiencia operativa.
 
+He diseñado y gestionado dashboards en Power BI para el seguimiento de KPIs, análisis de campañas y control de rendimiento, integrando múltiples fuentes como telemetría, GPS y datos maestros. Domino herramientas como DAX, Excel avanzado, Google Analytics y plataformas de visualización, lo que me permite generar reportes sólidos y orientados al negocio.
+
+Mi experiencia en marketing digital me ha permitido aplicar estos conocimientos en contextos reales, optimizando campañas programáticas y midiendo su impacto con precisión. Asimismo, complemento este perfil con el desarrollo de sitios WordPress funcionales, orientados a resultados y con prácticas de SEO, analítica web y experiencia de usuario.
+
+Me mueven los desafíos donde los datos y la estrategia se conectan para generar valor real.
 
 ## ✏️ Estudios
 
