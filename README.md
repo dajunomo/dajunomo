@@ -17,7 +17,7 @@ Me mueven los desafíos donde los datos y la estrategia se conectan para generar
 ## ✏️ Estudios
 
 - Fundación Universitaria Compensar. Estudiante Ingeniería de sistemas. Bogotá 2021– Actualidad.
-
+- Talento Tech. Desarrollo Web Fuck Stack. Bogotá 2024 – 2024
 - Politécnico Campoalto. Técnico laboral por competencias en ensamble mantenimiento y reparación de hardware. Bogotá 2014 – 2015.
 
 
